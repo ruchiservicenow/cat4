@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="cat4name" label="Cat4name" language="en" table="sn_cat4_cat4table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cat4name</element>
+            <help/>
+            <hint/>
+            <label>Cat4name</label>
+            <language>en</language>
+            <name>sn_cat4_cat4table</name>
+            <plural>Cat4names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2020-02-08 19:34:33</sys_created_on>
+            <sys_id>041b539a19b68010f87779baf659d310</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cat4name</sys_name>
+            <sys_package display_value="cat4" source="sn_cat4">bdda9f5a19b68010f87779baf659d340</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cat4">bdda9f5a19b68010f87779baf659d340</sys_scope>
+            <sys_update_name>sys_documentation_sn_cat4_cat4table_cat4name_en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2020-02-08 19:34:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
